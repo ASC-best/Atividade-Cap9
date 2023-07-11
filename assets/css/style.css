@@ -81,6 +81,9 @@
     color: var(--color-dark);
     background-color: var(--color-blue);
 }
+.solution-item img {
+    height: 45%;
+}
 @media(max-width:1250px) {
     .solution-item {
         width: 48%;
